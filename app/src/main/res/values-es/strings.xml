@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Changer</string>
+    <string-array name="colorNames">
+        <item>AZUL</item>
+        <item>CIAN</item>
+        <item>GRIS OSCURO</item>
+        <item>GRIS</item>
+        <item>VERDE</item>
+        <item>GRIS CLARO</item>
+        <item>MAGENTA</item>
+        <item>ACEITUNA</item>
+        <item>ROJO</item>
+        <item>AMARILLO</item>
+    </string-array>
+
+    <string-array name="colorValues">
+        <item>BLUE</item>
+        <item>CYAN</item>
+        <item>DARKGRAY</item>
+        <item>GRAY</item>
+        <item>GREEN</item>
+        <item>LIGHTGRAY</item>
+        <item>MAGENTA</item>
+        <item>OLIVE</item>
+        <item>RED</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>
